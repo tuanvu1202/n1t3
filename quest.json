@@ -1,0 +1,354 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "subject": "Mathematics",
+      "question": "What is the derivative of sin(x)?",
+      "answers": ["-sin(x)", "cos(x)", "sin(x)", "-cos(x)"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "subject": "Physics",
+      "question": "What is the speed of light in vacuum?",
+      "answers": ["3 × 10⁷ m/s", "3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10⁹ m/s"],
+      "correct": 2
+    },
+    {
+      "id": 3,
+      "subject": "Chemistry",
+      "question": "What is the atomic number of Carbon?",
+      "answers": ["8", "14", "12", "6"],
+      "correct": 3
+    },
+    {
+      "id": 4,
+      "subject": "Biology",
+      "question": "What is the powerhouse of the cell?",
+      "answers": ["Endoplasmic Reticulum", "Ribosome", "Nucleus", "Mitochondria"],
+      "correct": 3
+    },
+    {
+      "id": 5,
+      "subject": "Literature",
+      "question": "Who wrote 'The Tale of Kieu'?",
+      "answers": ["Nguyen Huy Tuong", "Nguyen Trai", "Ho Chi Minh", "Nguyen Du"],
+      "correct": 3
+    },
+    {
+      "id": 6,
+      "subject": "History",
+      "question": "In which year did Vietnam reunify?",
+      "answers": ["1976", "1945", "1954", "1975"],
+      "correct": 3
+    },
+    {
+      "id": 7,
+      "subject": "Geography",
+      "question": "What is the longest river in Vietnam?",
+      "answers": ["Ma River", "Red River", "Mekong River", "Dong Nai River"],
+      "correct": 2
+    },
+    {
+      "id": 8,
+      "subject": "English",
+      "question": "What is the past tense of 'go'?",
+      "answers": ["goes", "going", "went", "gone"],
+      "correct": 2
+    },
+    {
+      "id": 9,
+      "subject": "Physics",
+      "question": "What is Newton's Second Law?",
+      "answers": ["W = Fd", "P = mv", "E = mc²", "F = ma"],
+      "correct": 3
+    },
+    {
+      "id": 10,
+      "subject": "Chemistry",
+      "question": "What is the chemical formula for water?",
+      "answers": ["CO₂", "H₂O", "NaCl", "O₂"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "subject": "Biology",
+      "question": "How many chromosomes do humans have?",
+      "answers": ["48", "44", "46", "23"],
+      "correct": 2
+    },
+    {
+      "id": 12,
+      "subject": "History",
+      "question": "Who was the first president of the Democratic Republic of Vietnam?",
+      "answers": ["Ton Duc Thang", "Le Duan", "Vo Nguyen Giap", "Ho Chi Minh"],
+      "correct": 3
+    },
+    {
+      "id": 13,
+      "subject": "Geography",
+      "question": "What is the capital of Vietnam?",
+      "answers": ["Da Nang", "Ho Chi Minh City", "Hue", "Hanoi"],
+      "correct": 3
+    },
+    {
+      "id": 14,
+      "subject": "Mathematics",
+      "question": "What is the value of π (pi) approximately?",
+      "answers": ["1.61803", "1.41421", "2.71828", "3.14159"],
+      "correct": 3
+    },
+    {
+      "id": 15,
+      "subject": "Physics",
+      "question": "What type of energy does a moving object have?",
+      "answers": ["Potential Energy", "Thermal Energy", "Chemical Energy", "Kinetic Energy"],
+      "correct": 3
+    },
+    {
+      "id": 16,
+      "subject": "Chemistry",
+      "question": "What is the pH of a neutral solution?",
+      "answers": ["0", "10", "7", "14"],
+      "correct": 2
+    },
+    {
+      "id": 17,
+      "subject": "Biology",
+      "question": "What is photosynthesis?",
+      "answers": ["Digestion", "Breathing process", "Cell division", "Process plants use to make food"],
+      "correct": 3
+    },
+    {
+      "id": 18,
+      "subject": "Literature",
+      "question": "What is the main theme of 'The Tale of Kieu'?",
+      "answers": ["War", "Adventure", "Comedy", "Love and sacrifice"],
+      "correct": 3
+    },
+    {
+      "id": 19,
+      "subject": "History",
+      "question": "When did the August Revolution take place?",
+      "answers": ["1930", "1954", "1975", "1945"],
+      "correct": 3
+    },
+    {
+      "id": 20,
+      "subject": "English",
+      "question": "What is the plural of 'child'?",
+      "answers": ["childs", "child", "childes", "children"],
+      "correct": 3
+    },
+    {
+      "id": 21,
+      "subject": "Mathematics",
+      "question": "What is the quadratic formula?",
+      "answers": ["x = b²-4ac", "x = (-b ± √(b²-4ac))/(2a)", "x = 2a/b", "x = -b/a"],
+      "correct": 1
+    },
+    {
+      "id": 22,
+      "subject": "Physics",
+      "question": "What is the unit of force?",
+      "answers": ["Joule", "Pascal", "Newton", "Watt"],
+      "correct": 2
+    },
+    {
+      "id": 23,
+      "subject": "Biology",
+      "question": "What is DNA?",
+      "answers": ["Amino Acid", "Ribonucleic Acid", "Fatty Acid", "Deoxyribonucleic Acid"],
+      "correct": 3
+    },
+    {
+      "id": 24,
+      "subject": "History",
+      "question": "What year did the Battle of Dien Bien Phu end?",
+      "answers": ["1968", "1975", "1945", "1954"],
+      "correct": 3
+    },
+    {
+      "id": 25,
+      "subject": "Geography",
+      "question": "What is the highest mountain in Vietnam?",
+      "answers": ["Yen Tu", "Ba Vi", "Bach Ma", "Fansipan"],
+      "correct": 3
+    },
+    {
+      "id": 26,
+      "subject": "Physics",
+      "question": "What is Ohm's Law?",
+      "answers": ["E = mc²", "F = ma", "P = IV", "V = IR"],
+      "correct": 3
+    },
+    {
+      "id": 27,
+      "subject": "Chemistry",
+      "question": "What type of bond involves sharing electrons?",
+      "answers": ["Ionic bond", "Hydrogen bond", "Covalent bond", "Metallic bond"],
+      "correct": 2
+    },
+    {
+      "id": 28,
+      "subject": "Biology",
+      "question": "What is the process of cell division called?",
+      "answers": ["Diffusion", "Meiosis", "Osmosis", "Mitosis"],
+      "correct": 3
+    },
+    {
+      "id": 29,
+      "subject": "Geography",
+      "question": "Which delta is in southern Vietnam?",
+      "answers": ["Amazon Delta", "Nile Delta", "Red River Delta", "Mekong Delta"],
+      "correct": 3
+    },
+    {
+      "id": 30,
+      "subject": "Mathematics",
+      "question": "What is sin(90°)?",
+      "answers": ["0", "√3/2", "1", "1/2"],
+      "correct": 2
+    },
+    {
+      "id": 31,
+      "subject": "Physics",
+      "question": "What is the first law of thermodynamics?",
+      "answers": ["Entropy increase", "Energy conservation", "Pressure law", "Heat transfer"],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "subject": "Chemistry",
+      "question": "What is the molar mass of H₂O?",
+      "answers": ["22 g/mol", "20 g/mol", "16 g/mol", "18 g/mol"],
+      "correct": 3
+    },
+    {
+      "id": 33,
+      "subject": "Biology",
+      "question": "What are the building blocks of proteins?",
+      "answers": ["Glucose", "Fatty acids", "Nucleotides", "Amino acids"],
+      "correct": 3
+    },
+    {
+      "id": 34,
+      "subject": "History",
+      "question": "Who led the Vietnamese forces at Dien Bien Phu?",
+      "answers": ["Le Duan", "Ho Chi Minh", "Pham Van Dong", "Vo Nguyen Giap"],
+      "correct": 3
+    },
+    {
+      "id": 35,
+      "subject": "Mathematics",
+      "question": "What is the Pythagorean theorem?",
+      "answers": ["a + b = c", "abc = 1", "a² + b² = c²", "a² = b² + c²"],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "subject": "Physics",
+      "question": "What particle has a negative charge?",
+      "answers": ["Proton", "Neutron", "Photon", "Electron"],
+      "correct": 3
+    },
+    {
+      "id": 37,
+      "subject": "Biology",
+      "question": "What blood type is the universal donor?",
+      "answers": ["B negative", "A positive", "O negative", "AB positive"],
+      "correct": 2
+    },
+    {
+      "id": 38,
+      "subject": "History",
+      "question": "What year was the Socialist Republic of Vietnam established?",
+      "answers": ["1954", "1975", "1945", "1976"],
+      "correct": 3
+    },
+    {
+      "id": 39,
+      "subject": "Geography",
+      "question": "How many provinces does Vietnam have?",
+      "answers": ["58", "64", "60", "63"],
+      "correct": 3
+    },
+    {
+      "id": 40,
+      "subject": "Mathematics",
+      "question": "What is the sum of angles in a triangle?",
+      "answers": ["360°", "180°", "90°", "270°"],
+      "correct": 1
+    },
+    {
+      "id": 41,
+      "subject": "Physics",
+      "question": "What is gravitational acceleration on Earth?",
+      "answers": ["8.9 m/s²", "11 m/s²", "10 m/s²", "9.8 m/s²"],
+      "correct": 3
+    },
+    {
+      "id": 42,
+      "subject": "Biology",
+      "question": "What is the largest organ in human body?",
+      "answers": ["Liver", "Brain", "Heart", "Skin"],
+      "correct": 3
+    },
+    {
+      "id": 43,
+      "subject": "History",
+      "question": "What was the Tet Offensive?",
+      "answers": ["Festival", "Peace treaty", "1968 military campaign", "Trade agreement"],
+      "correct": 2
+    },
+    {
+      "id": 44,
+      "subject": "Geography",
+      "question": "Which sea is to the east of Vietnam?",
+      "answers": ["Caribbean Sea", "Arabian Sea", "East China Sea", "South China Sea"],
+      "correct": 3
+    },
+    {
+      "id": 45,
+      "subject": "Physics",
+      "question": "What is work in physics?",
+      "answers": ["Power × Time", "Force × Distance", "Mass × Velocity", "Energy/Time"],
+      "correct": 1
+    },
+    {
+      "id": 46,
+      "subject": "Chemistry",
+      "question": "What is Avogadro's number?",
+      "answers": ["3.14", "2.71", "9.8", "6.022 × 10²³"],
+      "correct": 3
+    },
+    {
+      "id": 47,
+      "subject": "Biology",
+      "question": "What system pumps blood through the body?",
+      "answers": ["Digestive system", "Nervous system", "Respiratory system", "Circulatory system"],
+      "correct": 3
+    },
+    {
+      "id": 48,
+      "subject": "Geography",
+      "question": "What is Ha Long Bay famous for?",
+      "answers": ["Temples", "Markets", "Beaches", "Limestone karsts"],
+      "correct": 3
+    },
+    {
+      "id": 49,
+      "subject": "Mathematics",
+      "question": "What is cos(0°)?",
+      "answers": ["∞", "-1", "0", "1"],
+      "correct": 3
+    },
+    {
+      "id": 50,
+      "subject": "Biology",
+      "question": "What is the function of ribosomes?",
+      "answers": ["Energy production", "DNA storage", "Protein synthesis", "Cell division"],
+      "correct": 2
+    }
+  ]
+}
